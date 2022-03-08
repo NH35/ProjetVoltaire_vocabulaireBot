@@ -1,6 +1,7 @@
 # FRANÇAIS
 ## Installation
 Sur n'importe quelles pages de la section vocabulaire du projet voltaire, ouvrez l'outil de développement de votre navigateur avec F12 ou Ctrl+Maj+i. Aller dans la partie console, et copiez-collez-y le script. Vous pouvez fermer la console, le script restera. 
+Il est aussi possible de le mettre dans un Manager de Script comme TaperMonkey.
 
 ## Contrôles
 Appuyez sur la touche 'g' du clavier pour répondre à une question.
@@ -16,6 +17,7 @@ Simple js script that answers automatically the exercises and tests on the Vocab
 ## Installation
 On any page of the vocabulary section (including an exam), open the console with F12 or ctrl+shift+i and go to the 'console' section.
 Simply copy and paste the script in the console. 
+It is also possible to put it in a script manager such as TamperMonkey.
 
 ## Controls
 Use the keyboard 'g' to answer one question.
